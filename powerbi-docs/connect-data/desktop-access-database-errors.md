@@ -75,7 +75,7 @@ To use both Access Database Engine bit versions:
 
 1. [Install both bit versions of the Access Database Engine](https://www.microsoft.com/download/details.aspx?id=13255) from the download page.
 
-1. Run each version of the Access Database Engine by using the `/passive` switch. For example:
+1. Run each version of the Access Database Engine by using the `/passive` switch(In case of Microsoft Access Database Engine 2016 `/quiet`). For example:
 
    ```console
    c:\users\joe\downloads\AccessDatabaseEngine.exe /passive
